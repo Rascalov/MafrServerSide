@@ -1,0 +1,10 @@
+{
+  "name": "Mafr Server Side",
+  "description": "Mafr Web Application Using Embedded Tomcat",
+  "repository": "",
+  "logo": "",
+  "keywords": [
+    "java",
+    "tomcat"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerConfig>
+    <LoginCredentials>
+        <Username></Username>
+        <Password></Password>
+    </LoginCredentials>
+    <ServerAuth>
+        <ServerPassword></ServerPassword>
+    </ServerAuth>
+    <AlllowEnrollment>true</AlllowEnrollment>
+</ServerConfig>
